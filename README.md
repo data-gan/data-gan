@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @data-gan
+- 👀 I’m interested in stats, analytics and data science
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on mahcine learning
+- 📫 How to reach me daataagan at gmail
